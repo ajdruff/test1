@@ -1,0 +1,27 @@
+{
+  "name": "test1",
+  "version": "1.0.1",
+  "description": "This is a test project for automating releases",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajdruff/test1.git"
+  },
+  "author": "Andrew Druffner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajdruff/test1/issues"
+  },
+  "homepage": "https://github.com/ajdruff/test1#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
