@@ -21,7 +21,7 @@
 <a name="1.0.67"></a>
 ## [1.0.67](https://github.com/ajdruff/test1/compare/1.0.66...1.0.67) (2016-08-09)
 
-
+    
 
 <a name="1.0.66"></a>
 ## [1.0.66](https://github.com/ajdruff/test1/compare/1.0.62...1.0.66) (2016-08-09)
