@@ -1,6 +1,6 @@
 {
   "name": "test1",
-  "version": "1.0.34",
+  "version": "1.0.35",
   "description": "This is a test project for automating releases",
   "main": "index.js",
   "directories": {
