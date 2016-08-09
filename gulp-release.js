@@ -16,10 +16,10 @@ gulp.task('changelog', function () {
     }))
     .pipe(gulp.dest('./'));
 });
-
+//curl -u ajdruff:1a91dc9ddedb6dabde68ac7d932954938ecaebb5 https://api.github.com/user works
 gulp.task('github-release', function(done) {
   conventionalGithubReleaser({
-    type: "basic",
+    type: "oauth",
     username:"ajdruff",
     password: '1a91dc9ddedb6dabde68ac7d932954938ecaebb5' // change this to your own GitHub token or use an environment variable
   }, {
