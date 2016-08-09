@@ -21,7 +21,7 @@ gulp.task('github-release', function(done) {
   conventionalGithubReleaser({
     type: "oauth",
     username:"ajdruff",
-    password: 'a6b5fe503055bdcd920ba3c660db3ed966be5566' // change this to your own GitHub token or use an environment variable
+    password: '32e26ee68e55cd29aabe64e7cc687089c6544c26' // change this to your own GitHub token or use an environment variable
   }, {
     preset: 'angular' // Or to any other commit message convention you use.
   }, done);
