@@ -1,5 +1,16 @@
+<a name="1.0.72"></a>
+## [1.0.72](https://github.com/ajdruff/test1/compare/1.0.71...v1.0.72) (2016-08-09)
+
+
+### Features
+
+* **myClass:** add a new change ([2e97175](https://github.com/ajdruff/test1/commit/2e97175))
+* **myFunction:** add another awesome thing ([0b1cc88](https://github.com/ajdruff/test1/commit/0b1cc88))
+
+
+
 <a name="1.0.71"></a>
-## [1.0.71](https://github.com/ajdruff/test1/compare/1.0.70...v1.0.71) (2016-08-09)
+## [1.0.71](https://github.com/ajdruff/test1/compare/1.0.70...1.0.71) (2016-08-09)
 
 
 
@@ -21,7 +32,7 @@
 <a name="1.0.67"></a>
 ## [1.0.67](https://github.com/ajdruff/test1/compare/1.0.66...1.0.67) (2016-08-09)
 
-    
+
 
 <a name="1.0.66"></a>
 ## [1.0.66](https://github.com/ajdruff/test1/compare/1.0.62...1.0.66) (2016-08-09)
