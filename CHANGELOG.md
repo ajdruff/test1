@@ -1,5 +1,10 @@
+<a name="1.1.1"></a>
+## [1.1.1](https://github.com/ajdruff/test1/compare/1.1.0...v1.1.1) (2016-08-10)
+
+
+
 <a name="1.1.0"></a>
-# [1.1.0](https://github.com/ajdruff/test1/compare/1.0.73...v1.1.0) (2016-08-10)
+# [1.1.0](https://github.com/ajdruff/test1/compare/1.0.73...1.1.0) (2016-08-10)
 
 
 
