@@ -1,6 +1,6 @@
 {
   "name": "Test1",
   "tagline": "",
-  "body": "#readme.md\r\n\r\n\r\nadded something.\r\nadded something else.\r\nadded something new",
+  "body": "{{ CONTENT }}",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
