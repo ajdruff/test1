@@ -1,5 +1,0 @@
-function myFirstFunction(){
-    
-    return 'hello';
-    
-}
