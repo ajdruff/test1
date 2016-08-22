@@ -1,10 +1,6 @@
 {
   "name": "test1",
-<<<<<<< HEAD
-  "version": "1.1.44",
-=======
   "version": "1.1.45",
->>>>>>> f460ade2c52fe5349f68f9a6ef29c455366b9b59
   "description": "Test github project - do  what you want with it.",
   "main": "",
   "scripts": {
