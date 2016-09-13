@@ -1,9 +1,7 @@
 
 #readme
-test test
-Change 1.1.0
-Change 1.2.0
-change 1.7.0
+change for 1.1.0
+
 
 * 1 
 * 2
