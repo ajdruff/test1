@@ -1,5 +1,15 @@
 <a name="1.0.0"></a>
-# 1.0.0 (2016-09-13)
+# [1.0.0](https://github.com/ajdruff/github-easy-release/compare/v1.1.0...v1.0.0) (2016-09-13)
+
+
+### Features
+
+* **readme:** made change 1.2.0 ([57a50a5](https://github.com/ajdruff/github-easy-release/commit/57a50a5))
+
+
+
+<a name="1.1.0"></a>
+# [1.1.0](https://github.com/ajdruff/github-easy-release/compare/3c69d56...v1.1.0) (2016-09-13)
 
 
 ### Bug Fixes
