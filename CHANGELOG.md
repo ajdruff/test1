@@ -1,4 +1,14 @@
 <a name="1.0.0"></a>
+# [1.0.0](https://github.com/ajdruff/github-easy-release/compare/v2.107.0...v1.0.0) (2016-09-13)
+
+
+
+<a name="2.107.0"></a>
+# [2.107.0](https://github.com/ajdruff/github-easy-release/compare/v2.106.0...v2.107.0) (2016-09-13)
+
+
+
+<a name="1.0.0"></a>
 # [1.0.0](https://github.com/ajdruff/github-easy-release/compare/v2.106.0...v1.0.0) (2016-09-13)
 
 
