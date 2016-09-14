@@ -1,3 +1,23 @@
+<a name="1.22.0"></a>
+# [1.22.0](https://github.com/ajdruff/test1/compare/v1.21.0...v1.22.0) (2016-09-14)
+
+
+### Bug Fixes
+
+* **index.php:** fix typo ([c134d06](https://github.com/ajdruff/test1/commit/c134d06))
+
+
+### Features
+
+* add new 1.22.0 feature ([11d8ed4](https://github.com/ajdruff/test1/commit/11d8ed4))
+
+
+### Performance Improvements
+
+* **index.php:** improve performance ([1051497](https://github.com/ajdruff/test1/commit/1051497))
+
+
+
 <a name="1.21.0"></a>
 # [1.21.0](https://github.com/ajdruff/test1/compare/v1.20.0...v1.21.0) (2016-09-14)
 
