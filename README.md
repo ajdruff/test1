@@ -1,7 +1,7 @@
 
 #readme
 change for 1.1.0
-changed again for 1.2.0
+this is a change for 1.6.0
 
 
 * 1 
