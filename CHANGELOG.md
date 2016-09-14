@@ -1,3 +1,8 @@
+<a name="1.23.0"></a>
+# [1.23.0](https://github.com/ajdruff/test1/compare/v1.22.0...v1.23.0) (2016-09-14)
+
+
+
 <a name="1.22.0"></a>
 # [1.22.0](https://github.com/ajdruff/test1/compare/v1.21.0...v1.22.0) (2016-09-14)
 
