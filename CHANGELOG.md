@@ -1,3 +1,13 @@
+<a name="1.21.0"></a>
+# [1.21.0](https://github.com/ajdruff/test1/compare/v1.20.0...v1.21.0) (2016-09-14)
+
+
+### Features
+
+* **test.php:** add new 1.21.0 feature (header) ([8a239c3](https://github.com/ajdruff/test1/commit/8a239c3))
+
+
+
 <a name="1.20.0"></a>
 # [1.20.0](https://github.com/ajdruff/test1/compare/v1.19.0...v1.20.0) (2016-09-14)
 
