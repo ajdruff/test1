@@ -1,0 +1,61 @@
+{
+  "name": "github-easy-release",
+  "version": "1.0.0",
+  "description": "A gulp release script for pushing final release to github and updating gh-pages with updated readme.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "chalk": "^1.1.3",
+    "fs": "^0.0.2",
+    "github": "^2.5.1",
+    "gulp": "^3.9.1",
+    "gulp-bump": "^2.2.0",
+    "gulp-conventional-changelog": "^1.1.0",
+    "gulp-git": "^1.11.0",
+    "gulp-liquid": "^0.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-util": "^3.0.7",
+    "highlight.js": "^9.6.0",
+    "marked": "^0.3.6",
+    "minimist": "^1.2.0",
+    "moment": "^2.14.1",
+    "octonode": "^0.7.6",
+    "parse-github-repo-url": "^1.3.0",
+    "parse-link-header": "^0.4.1",
+    "prompt": "^1.0.0",
+    "requirefrom": "^0.2.0",
+    "run-sequence": "^1.2.2",
+    "sprintf-js": "^1.0.3",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "github",
+    "release"
+  ],
+  "author": "Andrew Druffner",
+  "license": "MIT",
+  "config": {
+    "changelog": "CHANGELOG.md",
+    "changelog_preset": "angular",
+    "readme": "README.md",
+    "commit_message": "Release {VERSION_NUMBER}",
+    "ghpages": true,
+    "tag": "v{VERSION_NUMBER}",
+    "tag_message": "Created Tag for version: {VERSION_NUMBER}",
+    "release_note": "released {NOW} using [GER](http://github.com/ajdruff/github-easy-release)",
+    "time_stamp": "dddd, MMMM Do YYYY, h:mm:ss a Z"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajdruff/github-easy-release.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ajdruff/github-easy-release/issues"
+  },
+  "homepage": "https://github.com/ajdruff/github-easy-release#readme"
+}
