@@ -1,3 +1,8 @@
+<a name="1.87.1-0"></a>
+## [1.87.1-0](https://github.com/ajdruff/test1/compare/v1.87.0...v1.87.1-0) (2016-10-12)
+
+
+
 <a name="1.87.0"></a>
 # [1.87.0](https://github.com/ajdruff/test1/compare/v1.86.2-0...v1.87.0) (2016-10-12)
 
