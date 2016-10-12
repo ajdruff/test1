@@ -3,3 +3,7 @@
 /github-easy-release
 /*.zip
 /github-easy-release-moved-to-git
+/node_modules
+/gulpfile-old.js
+/gulpfile.js
+test
