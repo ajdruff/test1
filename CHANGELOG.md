@@ -1,3 +1,23 @@
+<a name="1.78.0"></a>
+# [1.78.0](https://github.com/ajdruff/test1/compare/v1.74.0...v1.78.0) (2016-10-12)
+
+
+
+<a name="1.77.0"></a>
+# [1.77.0](https://github.com/ajdruff/test1/compare/v1.74.0...v1.77.0) (2016-10-12)
+
+
+
+<a name="1.76.0"></a>
+# [1.76.0](https://github.com/ajdruff/test1/compare/v1.74.0...v1.76.0) (2016-10-12)
+
+
+
+<a name="1.75.0"></a>
+# [1.75.0](https://github.com/ajdruff/test1/compare/v1.74.0...v1.75.0) (2016-10-12)
+
+
+
 <a name="1.74.0"></a>
 # [1.74.0](https://github.com/ajdruff/test1/compare/v1.72.0...v1.74.0) (2016-10-12)
 
